@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    user-select: none;
+}
+
+canvas{
+    background-color: rgb(53, 53, 53);
+}
+#div1{
+    position: fixed;
+    display: none;
+    top: 10px;
+    left: 20px;
+    color: white;
+    user-select: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div2{
+    position: fixed;
+    display: none;
+    top: 10px;
+    right: 20px;
+    color: white;
+    user-select: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div1l{
+    position: fixed;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+    user-select: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div2l{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    color: white;
+    user-select: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div3{
+    font-family: verdana;
+    position: fixed;
+    z-index: 1;
+    height: auto;
+    background-color: gray;
+    width: 40vw;
+    top: 23vh;
+    left: 30vw;
+    text-align: center;
+    transition: background-color 0.3s;
+    border-radius: 10px;
+}
+#div3:hover{
+    background-color: rgb(104, 104, 104);
+}
+button{
+    background-color:#0a2ceb;
+    height: 40px;
+    width: 30vw;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    transition-property: background-color;
+    transition-duration: 0.5s;
+}
+button:hover{
+    background-color:#7320f8 ;
+    color: wheat;
+}
