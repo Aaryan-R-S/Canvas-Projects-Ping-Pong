@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://aaryan-r-s.github.io/Canvas-Projects-Collision-Game">
+  <a href="https://aaryan-r-s.github.io/Canvas-Projects-Ping-Pong">
     <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,17 +13,17 @@
     <strong>Explore the docs »</strong>
     <br />
     <br />
-    <a href="https://aaryan-r-s.github.io/Canvas-Projects-Collision-Game">View Demo</a>
+    <a href="https://aaryan-r-s.github.io/Canvas-Projects-Ping-Pong">View Demo</a>
     ·
-    <a href="https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game/issues">Report Bug</a>
+    <a href="https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game/issues">Request Feature</a>
+    <a href="https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong/issues">Request Feature</a>
     <br />
 </p>
 
-**Project Link** -> [Click Here](https://aaryan-r-s.github.io/Canvas-Projects-Collision-Game)
+**Project Link** -> [Click Here](https://aaryan-r-s.github.io/Canvas-Projects-Ping-Pong)
 <br>
-**Source Code Link** -> [Click Here](https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game)
+**Source Code Link** -> [Click Here](https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong)
 <br>
 
 <!-- TABLE OF CONTENTS -->
@@ -84,7 +84,7 @@ To get a local copy up and running follow these simple steps.
 
 - Clone the repo
    ```sh
-   git clone https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game.git
+   git clone https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong.git
    ```
 
 
@@ -117,7 +117,7 @@ Feel free to clone and modify according to your needs. But please give desirable
 
 Email ID - aaryan20004@iiitd.ac.in
 
-Project Link - [https://aaryan-r-s.github.io/Canvas-Projects-Collision-Game](https://aaryan-r-s.github.io/Canvas-Projects-Collision-Game)
+Project Link - [https://aaryan-r-s.github.io/Canvas-Projects-Ping-Pong](https://aaryan-r-s.github.io/Canvas-Projects-Ping-Pong)
 
 
 <!-- ACKNOWLEDGEMENTS -->
